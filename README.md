@@ -1,5 +1,9 @@
 # Hadoop Letter Count MapReduce Project
 
+Developed a Java-based Hadoop MapReduce application that processed 10 Project Gutenberg datasets using HDFS and YARN on a Docker-based Hadoop 3.3.6 cluster. Implemented case-insensitive letter frequency analysis and total letter aggregation.
+
+This is an academic project.
+
 ## Overview
 
 This project implements a Hadoop MapReduce application in Java to calculate the frequency of each letter (A-Z) from a collection of Project Gutenberg text files. The application performs case-insensitive letter counting and also calculates the total number of letters across all input files.
